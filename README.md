@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرامي دايما في بالي
+> نور عيونك غير حالي
+> في الليالي قلبي معاك
+> روحي تسكن في سماك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
